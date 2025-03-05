@@ -72,22 +72,22 @@ Investor Collaboration Channels
 ## Prototype
 
 ### Get Started
-![alt text](image.png)
+![alt text](SignUp.png)
 
 
 ### Dashboard
-![alt text](image-1.png)
+![alt text](Dashboard.png)
 
 
 ### Job Opportunities
-![alt text](image-2.png)
+![alt text](JobOppurtunites.png)
 
 ### Learning Resources
-![alt text](image-3.png)
+![alt text](LearningRes.png)
 
 
 ## Responsive Design
-![alt text](image-4.png)
+![alt text](Workflow.png)
 
 ## Our Solution
 
