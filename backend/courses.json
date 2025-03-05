@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "category": "AI/ML",
+      "title": "Machine Learning Fundamentals",
+      "desc": "Master core ML concepts and algorithms",
+      "rating": 4.8,
+      "enrolled": 2450
+    },
+    {
+      "id": 2,
+      "category": "Web Development",
+      "title": "Advanced React.js",
+      "desc": "Build modern web applications with React",
+      "rating": 4.7,
+      "enrolled": 1800
+    },
+    {
+      "id": 3,
+      "category": "Data Science",
+      "title": "Data Visualization with Python",
+      "desc": "Learn to create stunning visualizations",
+      "rating": 4.6,
+      "enrolled": 1200
+    }
+  ]
