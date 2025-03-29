@@ -1,5 +1,7 @@
 ## Cicada - Your Network, Your Net worth
 
+### Gidy Hackathon ---
+
 ##### A versatile skill-mapping platform that:
 
 * Evaluates job market dynamics
